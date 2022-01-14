@@ -1,0 +1,11 @@
+Game type: simple platform game. Zombie is avoiding spikes and saws.
+
+Heroes: Zombie.
+Enemies: Cutie throwing saw.
+
+Levels: waiting for the decision.
+
+Success: when Zombie touch Cutie it wins, for the end a graphic with zombie in a crown and "cutie" Zombie.
+
+Useful links:
+https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes - codes for keyboard
